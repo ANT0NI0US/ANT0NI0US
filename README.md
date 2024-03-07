@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)](https://your-new-profile-link.com)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://your-new-profile-link.com)
 
 <h1 align="center">Hi 👋, I'm Antonious Nasr Kamel</h1>
 <h3 align="center">Software Engineer || FrontEnd Developer</h3>
