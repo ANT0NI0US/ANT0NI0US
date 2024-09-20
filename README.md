@@ -4,7 +4,7 @@
 <p align="center">Iam dedicated to crafting immersive and user-centric digital experiences. With a keen eye for design and a commitment to seamless functionality, I bring websites to life through a combination of creativity and technical expertise.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 All of my projects are available at [https://antonious-website-portfolio.netlify.app/](https://antonious-website-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://antonious-portfolio.netlify.app/#home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
