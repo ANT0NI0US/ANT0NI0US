@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://your-new-profile-link.com)
 <h1 align="center">Hi <img width="50" src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>, I'm Antonious Nasr Kamel</h1>
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700D9&width=435&lines=Frontend+Developer++(+React+%26+Next)" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F700D9&width=435&lines=Frontend+Developer++(+React+%26+Next+)" alt="Typing SVG" /></div>
 <p align="center">Iam dedicated to crafting immersive and user-centric digital experiences. With a keen eye for design and a commitment to seamless functionality, I bring websites to life through a combination of creativity and technical expertise.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
